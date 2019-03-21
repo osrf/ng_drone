@@ -1,1 +1,1 @@
-Please see documentation in the [wiki](https://github.com/osrf/ng_drone/wiki).
+Please see documentation in the [https://wiki.ros.org/ng_drones).
